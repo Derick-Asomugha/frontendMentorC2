@@ -45,12 +45,9 @@ See hover and focus states for all interactive elements on the page
 
 📸 Screenshot
 
-Add a screenshot of your solution here:
-
-![Screenshot](./screenshot.png)
+![Screenshot](./public/Screenshot.png)
 
 
-(Replace the path with your actual screenshot file.)
 
 🔗 Links
 
